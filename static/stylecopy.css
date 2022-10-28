@@ -1,0 +1,38 @@
+body{
+    position:absolute;
+    background-image: url("qq.jpg");
+    background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   opacity: 0.8;
+   
+}
+
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:  #0f6fb4;;
+    font-family: "Lucida Console", "Courier New", monospace;
+    line-height: 80px;
+  }
+
+  
+  textarea[type=text] {
+    width: 926px;
+    padding: 50px 10px;
+    margin-left: 80px;
+    margin-top: 0%;
+    border-radius: 5px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 40px;
+    border-color: rgba(79, 193, 50, 0.25);
+  }
+  
+.form-group{
+
+padding-top: 280px;
+}
